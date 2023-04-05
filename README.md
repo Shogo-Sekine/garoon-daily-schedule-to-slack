@@ -1,5 +1,5 @@
 # garoon-schedule-to-slack
-Daily notification from today's schedule on garoon to slack 
+Daily notification from today's schedule on garoon to slack  
 1日1回、Garoonに登録されている本日のスケジュールを取得してslackに通知させる。
 
 ## 実装方法
