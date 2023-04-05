@@ -13,7 +13,7 @@ Daily notification from today's schedule on garoon to slack
     1. Incoming Webhookを検索し、slackに追加。
         ![スクリーンショット 2023-04-05 094855](https://user-images.githubusercontent.com/16629235/229953679-4a239e88-316e-4123-96ef-a77920a46f85.png)
     
-    1.宛先のチャンネルなどを一通り設定。その際に発行されるwebhook urlはgasコード内で使用するので控えておくこと。
+    1. 宛先のチャンネルなどを一通り設定。その際に発行されるwebhook urlはgasコード内で使用するので控えておくこと。
 
 1. スプレッドシートを作成し、Garoon認証情報を記載する。キー名は画像のようにする。
     (スプレッドシートは必ず非公開にすること。運用は自己責任で。)
